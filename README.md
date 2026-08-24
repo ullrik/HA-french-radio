@@ -2,6 +2,9 @@
 ## Descritpion
 Voici le code nécessaire pour mettre des stations de radio (ex : radio Française) sur votre media player (ex : google_home).
 
+## Note
+Je ne suis pas le création des scripts initiaux, je l'avais dans ma configuration depuis plusieurs années. Par contre, j'ai corrigé les différents bugs que j'avais dans cette solutions que je partage.
+
 ## Home Assistant
 ### Fichiers
 Dans le répertoire www de Home Assistant mettre le contenu de www dans les sources Github
