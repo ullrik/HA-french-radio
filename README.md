@@ -1,4 +1,4 @@
-# HA-French-radio
+# HA-french-radio
 ## Descritpion
 Voici le code nécessaire pour mettre des stations de radio (ex : radio Française) sur votre media player (ex : google_home).
 
